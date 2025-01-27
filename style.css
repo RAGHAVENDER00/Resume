@@ -1,0 +1,12 @@
+h1,h2{
+  color:brown;
+}
+h1{
+  font-size: 40px;
+  align-self: start;
+}
+h2{
+  font-size: 30px;
+  align-self: start;
+} 
+
